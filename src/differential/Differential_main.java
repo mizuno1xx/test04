@@ -6,8 +6,8 @@ public class Differential_main
 {
 	public static void main(String[] args) 
 	{
-		// h	¨ 0.00000000001
-		// ans	¨ 8.274037099909037E-6
+		// h ¨ 0.00000000001
+		// ans ¨ 8.274037099909037E-6
 		
 		Scanner scan = new Scanner( System.in );
 		System.out.print( "Input value of  a> " );
